@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Расписание РГСУ</string>
+    <string name="settings">Настройки</string>
+    <string name="about">О программе</string>
+    <string name="you_group">Ваша Группа</string>
+    <string name="re_group">Обновить</string>
+</resources>
